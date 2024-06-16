@@ -1,0 +1,4 @@
+ 1  0 2
+ 2 bread 32 2
+ 3 butter 60 4
+ 4 eggs 170 3
